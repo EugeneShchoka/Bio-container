@@ -16,6 +16,10 @@ To build and run the container in interactive mode:
 
     docker build -t my-bio-container . && docker run -it --rm my-bio-container
 
+To stop the container in interactive mode:
+
+    stop
+
 ## Tool Usage
 
 - To run **samtools**:  
